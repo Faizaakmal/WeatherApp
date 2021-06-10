@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <color name="skyblue">#86BBD8</color>
+</resources>
